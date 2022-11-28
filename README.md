@@ -7,11 +7,11 @@ Lucas Pereira Gonçalves - 83 GES
 
 Willy Paim Ribeiro de Paula - 93 GES
 
-Exercício 1:
+## Exercício 1:
 
 Site utilizado para a realização dos testes: https://restcountries.com/#api-endpoints-v3-all
 
-Testes realizados no site:
+### Testes realizados no site:
 
 1 - Verificando se o Brasil está na sub região América do Sul, usando o parâmetro de subregion.
 
