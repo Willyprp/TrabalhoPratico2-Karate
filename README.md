@@ -31,9 +31,11 @@ Execução do Projeto:
 
 2 - Ter o maven instalado, para saber se possui basta usar o comando:
 
+
 which mvm
 
 3 - Executar o comando:
+
 
 mvn test –Dtest=ProjetoRunner
 
@@ -41,6 +43,7 @@ mvn test –Dtest=ProjetoRunner
 
 
 Exercício 2:
+
 1)
 Desenvolvemos apenas uma. Uma suíte com 6 casos de testes.
 
@@ -48,16 +51,13 @@ Desenvolvemos apenas uma. Uma suíte com 6 casos de testes.
 São testes automatizados, pois é um código que testa outro código.
 
 3)
-Se localiza na parte de testes de integração, pois testa a funcionalidade de um
-sistema.
+Se localiza na parte de testes de integração, pois testa a funcionalidade de um sistema.
 
 4)
-Os testes são funcionais, pois estamos testando o fluxo de dados, não os requisitos 
-não funcionais do sistema.
+Os testes são funcionais, pois estamos testando o fluxo de dados, não os requisitos não funcionais do sistema.
 
 5)
-Não realizamos nenhum teste E2E, pois apenas testamos uma funcionalidade do sistema,
-não ele como um todo.
+Não realizamos nenhum teste E2E, pois apenas testamos uma funcionalidade do sistema, não ele como um todo.
 
 6)
 Deve-se executar todas as suítes de teste desenvolvidas para o mesmo sistema.
