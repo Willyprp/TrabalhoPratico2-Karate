@@ -2,7 +2,9 @@
 Repositório do Trabalho Prático 2, da matéria S206-L1, sobre Teste de API utilizando o Karate
 
 Alunos:
+
 Lucas Pereira Gonçalves - 83 GES
+
 Willy Paim Ribeiro de Paula - 93 GES
 
 Exercício 1:
