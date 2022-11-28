@@ -43,19 +43,25 @@ Execução do Projeto:
 Exercício 2:
 
 Questão 1:
+
     Desenvolvemos apenas uma. Uma suíte com 6 casos de testes.
 
 Questão 2:
+
     São testes automatizados, pois é um código que testa outro código.
 
 Questão 3:
+
     Se localiza na parte de testes de integração, pois testa a funcionalidade de um sistema.
 
 Questão 4:
+
     Os testes são funcionais, pois estamos testando o fluxo de dados, não os requisitos não funcionais do sistema.
 
 Questão 5:
+
     Não realizamos nenhum teste E2E, pois apenas testamos uma funcionalidade do sistema, não ele como um todo.
 
 Questão 6:
+
     Deve-se executar todas as suítes de teste desenvolvidas para o mesmo sistema.
