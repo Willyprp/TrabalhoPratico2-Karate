@@ -7,11 +7,11 @@ Lucas Pereira Gonçalves - 83 GES
 
 Willy Paim Ribeiro de Paula - 93 GES
 
-Exercício 1:
+## Exercício 1:
 
 Site utilizado para a realização dos testes: https://restcountries.com/#api-endpoints-v3-all
 
-Testes realizados no site:
+### Testes realizados no site:
 
 1 - Verificando se o Brasil está na sub região América do Sul, usando o parâmetro de subregion.
 
@@ -25,7 +25,7 @@ Testes realizados no site:
 
 6 - Verficando se o Japão é uma ilha, usando o parâmento landlocked
 
-Execução do Projeto:
+## Execução do Projeto:
 
 1 - Realizar a cópia do repositório para máquina pessoal.
 
@@ -40,7 +40,7 @@ Execução do Projeto:
 4 - O relatório será gerado na pasta karate-reports com o nome projeto.projeto.html, basta abrir esse arquivo em algum navegador para ver o relatório de testes.
 
 
-Exercício 2:
+## Exercício 2:
 
 Questão 1:
 
