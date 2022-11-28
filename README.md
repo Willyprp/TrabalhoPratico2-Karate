@@ -25,7 +25,7 @@ Site utilizado para a realização dos testes: https://restcountries.com/#api-en
 
 6 - Verficando se o Japão é uma ilha, usando o parâmento landlocked
 
-Execução do Projeto:
+## Execução do Projeto:
 
 1 - Realizar a cópia do repositório para máquina pessoal.
 
@@ -40,7 +40,7 @@ Execução do Projeto:
 4 - O relatório será gerado na pasta karate-reports com o nome projeto.projeto.html, basta abrir esse arquivo em algum navegador para ver o relatório de testes.
 
 
-Exercício 2:
+## Exercício 2:
 
 Questão 1:
 
